@@ -1,1 +1,2 @@
 Its a text file in project -1
+This is the second line of first file.
